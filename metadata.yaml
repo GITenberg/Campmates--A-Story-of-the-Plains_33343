@@ -1,0 +1,35 @@
+_repo: Campmates--A-Story-of-the-Plains_33343
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33343-h/cover.jpg
+creator:
+  author:
+    agent_name: Munroe, Kirk
+    birthdate: 1850
+    deathdate: 1930
+    gutenberg_agent_id: '1480'
+    url: http://www.gutenberg.org/2009/agents/1480
+    wikipedia: http://en.wikipedia.org/wiki/Kirk_Munroe
+description: ''
+gutenberg_issued: '2010-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33343'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcsh 'Diligence -- Juvenile fiction'
+- !lcsh 'Outdoor life -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Missing children -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Success -- Juvenile fiction'
+- !lcsh 'Engineers -- Juvenile fiction'
+title: 'Campmates: A Story of the Plains'
+url: http://www.gutenberg.org/ebooks/33343
